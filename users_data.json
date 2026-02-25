@@ -1,0 +1,17 @@
+{
+  "demo": {
+    "email": "demo@ailearn.com",
+    "password": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+    "created_at": "2026-02-24 23:14:00",
+    "xp": 0,
+    "completed_lessons": [],
+    "badges": [],
+    "streak": 0,
+    "quiz_scores": [],
+    "time_spent": {},
+    "last_login": "2026-02-25",
+    "name": "demo",
+    "current_course": null,
+    "completed_challenges": []
+  }
+}
